@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Eucalyptus",
+      "image": "https://fareastfloramarket.com/pub/media/catalog/product/cache/b65e39677432e53b1cd178cba9bd3e99/4/1/4165-f.jpg",
+      "price": 7.77,
+      "id": 17
+    },
+    {
+      "name": "Rose",
+      "image": "https://carbethplants.co.uk/wp-content/uploads/2022/03/prideofengland3.jpg",
+      "price": 5.55,
+      "id": 18
     }
   ]
 }
